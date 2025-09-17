@@ -6,6 +6,6 @@
 
 ---
 - Topic(s): Digital Citizenship and Computer Hardware
-- What I struggled with:
+- What I struggled with: Some aspects on the Digital Citizenship that may have brought some trouble on me were
 - What I’m proud of:
 - Next steps:
