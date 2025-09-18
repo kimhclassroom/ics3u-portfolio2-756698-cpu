@@ -7,6 +7,6 @@
 ---
 - **Topic(s):** Digital Citizenship and Computer Hardware
 - **What I struggled with:** Some aspects on the Digital Citizenship that may have brought some trouble on me were:
-1. trying to find reputable and good informing sources for the information on Online Etiquite which was my chosen topic
+1. Trying to find reputable and good informing sources for the information on Online Etiquite which was my chosen topic
 - **What I’m proud of:**
 - **Next steps:**
