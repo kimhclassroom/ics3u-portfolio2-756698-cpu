@@ -8,7 +8,7 @@ Welcome to my ICS3UR portfolio. I’ll use this site to post my work and reflect
 - [Reflection #2](./posts/second_reflection.md)
 
 ## About me
-A short intro (interests, goals, tools I’m learning).
+My name is Asad Khan, I am taking Grade 11 Introduction to Computer Science currently (interests, goals, tools I’m learning).
 
 ---
 *Update this page by editing `index.md` in your repository.*
