@@ -8,7 +8,10 @@ Welcome to my ICS3UR portfolio. I’ll use this site to post my work and reflect
 - [Reflection #2](./posts/second_reflection.md)
 
 ## About me
-My name is Asad Khan, I am taking Grade 11 Introduction to Computer Science currently and I live in Mississagua while going to school in PCSS. (interests, goals, tools I’m learning).
+My name is Asad Khan, I am taking Grade 11 Introduction to Computer Science currently and I live in Mississauga while going to school in PCSS. My 
+- *Interests*: Playing badminton, video games on my Nintendo, going on bike rides, traveling to different countries, eating cultural foods like Biryani, going on bike rides, hanging with my friends and familhy, and so much more.
+- 
+(interests, goals, tools I’m learning).
 
 ---
 *Update this page by editing `index.md` in your repository.*
