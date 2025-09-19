@@ -3,8 +3,11 @@ Welcome to my ICS3UR portfolio. I’ll use this site to post my work and reflect
 
 ## Highlights
 - 🔧 Project 1: **(Digital Citizenship)** – *(Digital citizenship helps promote responsible, ethical, and safe use of technology and online platforms. It encourages respect, critical thinking, and positive engagement in digital communities.)*
-- 🧠 Concept I learned: *(short note)*
+- 🧠 Concept I learned: *(Digital Literacy, Online Saftey and Security, Digital/Online Etiqutte, Digital Footprint, Cyberbullying Awareness, ect.)*
 - 📝 Blog/Reflection: [Reflection #1](./posts/first_reflection.md)
+  
+- 🔧 Project 2:
+- 🧠 Concept I learned:
 - [Reflection #2](./posts/second_reflection.md)
 
 ## About me
