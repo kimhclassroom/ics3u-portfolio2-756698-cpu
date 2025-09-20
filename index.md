@@ -8,7 +8,7 @@ Welcome to my ICS3UR portfolio. I’ll use this site to post my work and reflect
 ---
 - 🔧 Project 2:
 - 🧠 Concept I learned:
-- [Reflection #2](./posts/second_reflection.md)
+- 📝 Blog/Reflection: [Reflection #2](./posts/second_reflection.md)
 
 ## About me
 My name is Asad Khan, I am taking Grade 11 Introduction to Computer Science currently and I live in Mississauga while going to school in PCSS. 
