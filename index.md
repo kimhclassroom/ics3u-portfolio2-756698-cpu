@@ -6,8 +6,8 @@ Welcome to my ICS3UR portfolio. I’ll use this site to post my work and reflect
 - 🧠 Concept I learned: *(Digital Literacy, Online Saftey and Security, Digital/Online Etiqutte, Digital Footprint, Cyberbullying Awareness, ect.)*
 - 📝 Blog/Reflection: [Reflection #1](./posts/first_reflection.md)
 ---
-- 🔧 Project 2:
-- 🧠 Concept I learned:
+- 🔧 Project 2: **(Sustainable Computing** - *(Sustainable Computing helps us acknowledge the impact of e-waste, gives us knowledge on what devices can and can't be recycled, what our families can do to reduce e-waste, and where to drop them in our community)*
+- 🧠 Concept I learned: *(Reduce and Reuse, Repairing, Responsible E-Waste Disposal, Donate Functional Devices, ect.)*
 - 📝 Blog/Reflection: [Reflection #2](./posts/second_reflection.md)
 
 ## About me
