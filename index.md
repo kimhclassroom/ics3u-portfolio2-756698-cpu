@@ -21,8 +21,8 @@ My name is `Asad Khan`, I am taking Grade 11 Introduction to Computer Science cu
 - *Goals:* Things that I would like to achive in life would be to probably become a engineer, specifically an electrial engineer or chemical. I also have somewhat of an interest in coding, and if I enjoy it very much, I could probably try to become a software engineer too.
   
 - *Tools I'm learning:*
-1. **Understand the logic, not just the code:** Focus on why things work the way they do instead of just memorizing the frame of it.
-2. **Break problems into smaller steps:** Divide big challenges into simple tasks to make coding easier and less stressful for me.
-3. **Practice debugging patiently:** Learn to fix errors by testing small parts of my code and reading error messages carefully.
-4. **Start small and test often:** Write short pieces of code and check them frequently to catch mistakes early on.
-5. **Keep learning through practice and curiosity:** Trying new problems, exploring examples, and staying consistent to build strong coding skills.
+1. **Understanding the logic, not just the code:** I need to focus on why things work the way they do instead of just memorizing the frame of the code.
+2. **Breaking problems into smaller steps:** I can divide big challenges into simple tasks to make coding easier and less stressful for me.
+3. **Practicing debugging patiently:** I will learn to fix errors by testing small parts of my code and reading error messages carefully.
+4. **Starting small and testing often:** I will write short pieces of code and check them frequently to catch mistakes early on.
+5. **Keep learning through practice and curiosity:** This tool will really help me on trying new problems, exploring examples, and staying consistent to build strong coding skills.
