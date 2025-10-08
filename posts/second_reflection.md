@@ -1,7 +1,7 @@
 # Second Reflection
 ***What I learned this week:***
 
-<img width="521" height="290" alt="image" src="https://github.com/user-attachments/assets/29366b43-4147-4263-a638-5ca34d588ae2" />
+<img width="521" height="290" alt="image" src="https://media.licdn.com/dms/image/v2/C5112AQF3fSCHSu7pXA/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1581926693662?e=2147483647&v=beta&t=s4N3gmzDMlEaJEsWj5C1CRtrk6vyosrgFbMfgvc3G5Q" />
 
 ---
 - **Topic(s):** Sustainable Computing
