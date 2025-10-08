@@ -10,8 +10,8 @@ Welcome to my ICS3UR portfolio. I’ll use this site to post my work and reflect
 - 🧠 Concept I learned: *(Reduce and Reuse, Repairing, Responsible E-Waste Disposal, Donating Functional Devices, ect.)*
 - 📝 Blog/Reflection: [Reflection #2](./posts/second_reflection.md)
 ---
-- 🔧 Project 3:
-- 🧠 Concept I learned:
+- 🔧 Project 3: **()** - *()*
+- 🧠 Concept I learned: *()*
 - 📝 Blog/Reflection: [Reflection #3](./posts/third_reflection.md)
 
 ## About me
