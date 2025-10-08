@@ -4,7 +4,7 @@
 <img width="521" height="290" alt="image" src="https://media.licdn.com/dms/image/v2/C5112AQF3fSCHSu7pXA/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1581926693662?e=2147483647&v=beta&t=s4N3gmzDMlEaJEsWj5C1CRtrk6vyosrgFbMfgvc3G5Q" />
 
 ---
-- **Topic(s):** Sustainable Computing
+- **Topic(s):** `Sustainable Computing`
 
 - **What I struggled with:** *I struggled with finding reliable and recent information about local e-waste drop-off locations. It took some time to make sure the details I included were accurate and relevant to Mississauga.*
    
