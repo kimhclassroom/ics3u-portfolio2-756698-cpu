@@ -12,7 +12,7 @@ Welcome to my ICS3UR portfolio. I’ll use this site to post my work and reflect
 - 📝 Blog/Reflection: [Reflection #2](./posts/second_reflection.md)
   
 ---
-- 🔧 Project 3: **()** - *()*
+- 🔧 Project 3: **(Name Plate)** - *()*
 - 🧠 Concept I learned: *()*
 - 📝 Blog/Reflection: [Reflection #3](./posts/third_reflection.md)
   
