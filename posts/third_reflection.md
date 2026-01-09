@@ -1,4 +1,4 @@
-# Third Reflection
+# Learning Log Entry **Variables & Data Tracking**
 
 **a) What concept did you implement?**
 
