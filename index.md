@@ -12,8 +12,8 @@ Welcome to my ICS3UR portfolio. I’ll use this site to post my work and reflect
 - 📝 Blog/Reflection: [Reflection #2](./posts/second_reflection.md)
   
 ---
-- 🔧 Project 3: **(Name Plate)** - *()*
-- 🧠 Concept I learned: *()*
+- 🔧 Project 3: **(Learning Log Entry)** - *(Demonstrating a thorough understanding of my culminating code)*
+- 🧠 Concept I learned: *(The learning log entries were useful as they helped reflect on and organize each programming concept step by step during planning, making my game design clearer, more logical, and easier to implement later.)*
 - 📝 Blog/Reflection: [Reflection #3](./posts/third_reflection.md)
   
 ---
