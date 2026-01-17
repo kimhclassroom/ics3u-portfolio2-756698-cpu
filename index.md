@@ -21,6 +21,21 @@ Welcome to my ICS3UR portfolio. I’ll use this site to post my work and reflect
 - 🧠 Concept I learned: *(The learning log entries were useful as they helped reflect on and organize each programming concept step by step during planning, making my game design clearer, more logical, and easier to implement later.)*
 - 📝 Blog/Reflection: [Reflection](./posts/fourth_reflection.md)
 
+---
+- 🔧 Project 4: **(Learning Log Entry Day 3)** - *(Demonstrating a thorough understanding of my culminating code)*
+- 🧠 Concept I learned: *(The learning log entries were useful as they helped reflect on and organize each programming concept step by step during planning, making my game design clearer, more logical, and easier to implement later.)*
+- 📝 Blog/Reflection: [Reflection](./posts/fifth_reflection.md)
+
+---
+- 🔧 Project 4: **(Learning Log Entry Day 4)** - *(Demonstrating a thorough understanding of my culminating code)*
+- 🧠 Concept I learned: *(The learning log entries were useful as they helped reflect on and organize each programming concept step by step during planning, making my game design clearer, more logical, and easier to implement later.)*
+- 📝 Blog/Reflection: [Reflection](./posts/sixth_reflection.md)
+
+---
+- 🔧 Project 4: **(Learning Log Entry Day 5)** - *(Demonstrating a thorough understanding of my culminating code)*
+- 🧠 Concept I learned: *(The learning log entries were useful as they helped reflect on and organize each programming concept step by step during planning, making my game design clearer, more logical, and easier to implement later.)*
+- 📝 Blog/Reflection: [Reflection](./posts/seventh_reflection.md)
+
 ## About me
 My name is `Asad Khan`, I am taking Grade 11 Introduction to Computer Science currently and I live in Mississauga while going to school in PCSS. 
 - *Interests:* Playing badminton, video games on my Nintendo, going on bike rides, traveling to different countries, eating cultural foods like Biryani, going on bike rides, hanging with my friends and family, and so much more.
