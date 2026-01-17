@@ -4,12 +4,12 @@ Welcome to my ICS3UR portfolio. I’ll use this site to post my work and reflect
 ## Highlights
 - 🔧 Project 1: **(Digital Citizenship)** – *(Digital citizenship helps promote responsible, ethical, and safe use of technology and online platforms. It encourages respect, critical thinking, and positive engagement in digital communities.)*
 - 🧠 Concept I learned: *(Digital Literacy, Online Saftey and Security, Digital/Online Etiqutte, Digital Footprint, Cyberbullying Awareness, ect.)*
-- 📝 Blog/Reflection: [Reflection #1](./posts/first_reflection.md)
+- 📝 Blog/Reflection: [Reflection](./posts/first_reflection.md)
   
 ---
 - 🔧 Project 2: **(Sustainable Computing)** - *(Sustainable Computing helps us acknowledge the impact of e-waste, gives us knowledge on what devices can and can't be recycled, what our families can do to reduce e-waste, and where to drop them in our community)*
 - 🧠 Concept I learned: *(Reduce and Reuse, Repairing, Responsible E-Waste Disposal, Donating Functional Devices, ect.)*
-- 📝 Blog/Reflection: [Reflection #2](./posts/second_reflection.md)
+- 📝 Blog/Reflection: [Reflection](./posts/second_reflection.md)
   
 ---
 - 🔧 Project 3: **(Learning Log Entry Day 1)** - *(Demonstrating a thorough understanding of my culminating code)*
