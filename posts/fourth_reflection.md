@@ -7,11 +7,17 @@ The concept is *Selection Structure*, in which I used if and else statements for
 *Examples are:* 
 
 if (insidePlayArea && !collide(newX, newY)) {
+
   x = newX;
+  
   y = newY;
+  
   moved = true; 
+  
 } else {
+
   dir = int(random(4)); // Change to random direction if path is blocked
+  
 }
 
 **b) Where did you use it, and why did you implement it that way?**
