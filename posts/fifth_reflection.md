@@ -10,7 +10,7 @@ for (int i = 0; i < COIN_COUNT; i++) {
 
   if (!taken[i]) {
   
-    image(coin, coinX[i], coinY[i], 40, 40);
+  image(coin, coinX[i], coinY[i], 40, 40);
     
   }
   
