@@ -6,24 +6,18 @@ The concept is *Variables*, in which I used different data types to store and tr
 
 *Examples are:* 
 
-int score = 0;   -points from coins
+int score = 0;
 
-int lives = 3;   -chances left
+int lives = 3;
 
-boolean gamePaused = false;   -pause on/off
+String screen = "Intro";
 
-String currentScreen = "intro";   -current screen
-
-char[] maze;   -maze layout
-
-int playerX, playerY;   -player position
-
-int copSpeed = 3;   -cop speed
+boolean upPressed = false;
 
 **b) Where did you use it, and why did you implement it that way?**
 
-I will use these variables to track the game state, positions, and progress. Score and lives will change during coin collection and cop collisions. CurrentScreen will decide which screen to show. Maze (char[]) will hold the map layout. PlayerX/Y will move with arrow keys. CopSpeed will increase each level. I chose int for numbers, boolean for pause, String for screen names, and char[] for maze because they fit the data perfectly and keep the plan simple and good for me to code.
+I used different types of variables to keep track of everything happening in the game. Integers are used for numbers like the score and how many lives the player has left. I used a String called screen to act as a state controller, which lets the program know if it should be showing the menu, the actual game, or the game over screen. I also used booleans for the movement keys; this is better than just checking for a key press because it lets the player move diagonally by holding two keys at once.
 
 **c) What challenges did you encounter, and how did you fix them?**
 
-I first thought about a separate list for coins, but it was too complicated. I decided to keep coins as '*' in the maze array. This change simplified everything, cut extra variables, and made planning easier.
+At first, the player moved really jittery because I put the movement code directly inside the keyPressed function. I fixed this by using the boolean variables to track if a key was being held down and then moving the actual movement math into the draw loop so it checks the frame.
