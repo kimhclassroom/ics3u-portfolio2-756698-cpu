@@ -7,9 +7,13 @@ The concept is *Repetition Structure*, for loops and while loops to commence spe
 *Examples are:* 
 
 for (int i = 0; i < COIN_COUNT; i++) {
+
   if (!taken[i]) {
+  
     image(coin, coinX[i], coinY[i], 40, 40);
+    
   }
+  
 }
 
 **b) Where did you use it, and why did you implement it that way?**
