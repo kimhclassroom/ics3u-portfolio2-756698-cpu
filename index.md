@@ -19,7 +19,7 @@ Welcome to my ICS3UR portfolio. I’ll use this site to post my work and reflect
 ---
 - 🔧 Project 4: **(Learning Log Entry Day 2)** - *(Demonstrating a thorough understanding of my culminating code)*
 - 🧠 Concept I learned: *(The learning log entries were useful as they helped reflect on and organize each programming concept step by step during planning, making my game design clearer, more logical, and easier to implement later.)*
-- 📝 Blog/Reflection: [Reflection](./posts/third_reflection.md)
+- 📝 Blog/Reflection: [Reflection](./posts/fourth_reflection.md)
 
 ## About me
 My name is `Asad Khan`, I am taking Grade 11 Introduction to Computer Science currently and I live in Mississauga while going to school in PCSS. 
