@@ -2,37 +2,37 @@
 Welcome to my ICS3UR portfolio. I’ll use this site to post my work and reflections.
 
 ## Highlights
-- 🔧 Project 1: **(Digital Citizenship)** – *(Digital citizenship helps promote responsible, ethical, and safe use of technology and online platforms. It encourages respect, critical thinking, and positive engagement in digital communities.)*
+- 🔧 Project: **(Digital Citizenship)** – *(Digital citizenship helps promote responsible, ethical, and safe use of technology and online platforms. It encourages respect, critical thinking, and positive engagement in digital communities.)*
 - 🧠 Concept I learned: *(Digital Literacy, Online Saftey and Security, Digital/Online Etiqutte, Digital Footprint, Cyberbullying Awareness, ect.)*
 - 📝 Blog/Reflection: [Reflection](./posts/first_reflection.md)
   
 ---
-- 🔧 Project 2: **(Sustainable Computing)** - *(Sustainable Computing helps us acknowledge the impact of e-waste, gives us knowledge on what devices can and can't be recycled, what our families can do to reduce e-waste, and where to drop them in our community)*
+- 🔧 Project: **(Sustainable Computing)** - *(Sustainable Computing helps us acknowledge the impact of e-waste, gives us knowledge on what devices can and can't be recycled, what our families can do to reduce e-waste, and where to drop them in our community)*
 - 🧠 Concept I learned: *(Reduce and Reuse, Repairing, Responsible E-Waste Disposal, Donating Functional Devices, ect.)*
 - 📝 Blog/Reflection: [Reflection](./posts/second_reflection.md)
   
 ---
-- 🔧 Project 3: **(Learning Log Entry Day 1)** - *(Demonstrating a thorough understanding of my culminating code)*
+- 🔧 Project: **(Learning Log Entry Day 1)** - *(Demonstrating a thorough understanding of my culminating code)*
 - 🧠 Concept I learned: *(The learning log entries were useful as they helped reflect on and organize each programming concept step by step during planning, making my game design clearer, more logical, and easier to implement later.)*
 - 📝 Blog/Reflection: [Reflection](./posts/third_reflection.md)
   
 ---
-- 🔧 Project 4: **(Learning Log Entry Day 2)** - *(Demonstrating a thorough understanding of my culminating code)*
+- 🔧 Project: **(Learning Log Entry Day 2)** - *(Demonstrating a thorough understanding of my culminating code)*
 - 🧠 Concept I learned: *(The learning log entries were useful as they helped reflect on and organize each programming concept step by step during planning, making my game design clearer, more logical, and easier to implement later.)*
 - 📝 Blog/Reflection: [Reflection](./posts/fourth_reflection.md)
 
 ---
-- 🔧 Project 4: **(Learning Log Entry Day 3)** - *(Demonstrating a thorough understanding of my culminating code)*
+- 🔧 Project: **(Learning Log Entry Day 3)** - *(Demonstrating a thorough understanding of my culminating code)*
 - 🧠 Concept I learned: *(The learning log entries were useful as they helped reflect on and organize each programming concept step by step during planning, making my game design clearer, more logical, and easier to implement later.)*
 - 📝 Blog/Reflection: [Reflection](./posts/fifth_reflection.md)
 
 ---
-- 🔧 Project 4: **(Learning Log Entry Day 4)** - *(Demonstrating a thorough understanding of my culminating code)*
+- 🔧 Project: **(Learning Log Entry Day 4)** - *(Demonstrating a thorough understanding of my culminating code)*
 - 🧠 Concept I learned: *(The learning log entries were useful as they helped reflect on and organize each programming concept step by step during planning, making my game design clearer, more logical, and easier to implement later.)*
 - 📝 Blog/Reflection: [Reflection](./posts/sixth_reflection.md)
 
 ---
-- 🔧 Project 4: **(Learning Log Entry Day 5)** - *(Demonstrating a thorough understanding of my culminating code)*
+- 🔧 Project: **(Learning Log Entry Day 5)** - *(Demonstrating a thorough understanding of my culminating code)*
 - 🧠 Concept I learned: *(The learning log entries were useful as they helped reflect on and organize each programming concept step by step during planning, making my game design clearer, more logical, and easier to implement later.)*
 - 📝 Blog/Reflection: [Reflection](./posts/seventh_reflection.md)
 
